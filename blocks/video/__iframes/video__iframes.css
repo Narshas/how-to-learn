@@ -1,0 +1,9 @@
+.video__iframes {
+  margin: 0;
+  padding-top: 50px;
+  display: flex;
+}
+
+.video__iframes :nth-of-type(2n) {
+  padding-left: 20px;
+}

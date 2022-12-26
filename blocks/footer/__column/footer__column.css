@@ -1,0 +1,19 @@
+.footer__column_content_copyright {
+  margin: 0;
+  position: relative;
+  flex-basis: 711px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.footer__column_content_info {
+  text-decoration: none;
+  color: white;
+}
+
+.footer__column_content_social {
+  color: white;
+}
+
+/* Без модификатора column не используется */
