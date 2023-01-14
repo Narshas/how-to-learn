@@ -1,0 +1,5 @@
+.border-none {
+  border: 0;
+  border-bottom: 1px solid #bcbcc4;
+  background-color: transparent;
+}

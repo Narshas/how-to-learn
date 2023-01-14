@@ -1,0 +1,6 @@
+.feedback__form-block-box {
+  display: flex;
+  padding-top: 20px;
+  flex-direction: column;
+
+}
