@@ -1,6 +1,6 @@
-.feedback__form-block-box {
-  display: flex;
-  padding-top: 20px;
-  flex-direction: column;
-
+.feedback__form-block {
+  margin: 0;
+  padding: 0;
+  max-width: 320px;
+  border: none;
 }
